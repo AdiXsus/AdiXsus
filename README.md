@@ -1,12 +1,6 @@
 # ...
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=adixsus&style=flat-square&color=gray" alt="" width="15%" height="15%"/>
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=adixsus" width="15%" height="15%"> -->
-</div>
-
-![](https://komarev.com/ghpvc/?username=adixsus)
-
+![](https://komarev.com/ghpvc/?username=adixsus&color=lightgreen)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adixsus&layout=compact)
 
