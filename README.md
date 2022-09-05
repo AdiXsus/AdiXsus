@@ -1,6 +1,6 @@
 # ...
 
-![](https://komarev.com/ghpvc/?username=adixsus&color=lightgreen)
+![](https://komarev.com/ghpvc/?username=adixsus&color=lightgrey)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adixsus&layout=compact)
 
