@@ -1,4 +1,4 @@
-<div align="right">
+<div align="justify">
 <img src="https://komarev.com/ghpvc/?username=adixsus&style=flat&color=lightgrey">
 </div>
 
