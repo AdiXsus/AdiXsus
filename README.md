@@ -1,7 +1,7 @@
 # ...
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=wavescats&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
+<img src="https://komarev.com/ghpvc/?username=adixsus&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=adixsus" width="15%" height="15%"> -->
 </div>
 
