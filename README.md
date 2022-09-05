@@ -8,7 +8,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adixsus&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adixsus&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adixsus&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adixsus&repo=__)](https://github.com/adixsus/__)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/58894271/188497777-17fa3ab8-0415-4af2-b3ab-5f97a91d2b57.svg)
