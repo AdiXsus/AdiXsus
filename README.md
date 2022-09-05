@@ -1,7 +1,7 @@
 # ...
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=adixsus&style=flat&color=lightgrey" alt="" width="15%" height="15%"/>
+<img src="https://komarev.com/ghpvc/?username=adixsus&style=flat&color=lightgrey">
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adixsus&layout=compact)
