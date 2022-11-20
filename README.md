@@ -1,3 +1,6 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/373730000609869835)](https://discord.com/users/373730000609869835)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adixsus&layout=compact)
 
 <div align="center">
